@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LabWork3\LabWork3\bin\Debug\LabWork3.exe.config
+C:\Users\user\source\repos\LabWork3\LabWork3\bin\Debug\LabWork3.exe
+C:\Users\user\source\repos\LabWork3\LabWork3\bin\Debug\LabWork3.pdb
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\App.g.cs
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3_MarkupCompile.cache
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3_MarkupCompile.lref
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3.g.resources
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3.Properties.Resources.resources
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3.exe
+C:\Users\user\source\repos\LabWork3\LabWork3\obj\Debug\LabWork3.pdb
